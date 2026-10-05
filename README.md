@@ -36,18 +36,18 @@ O projeto trabalha com:
 projeto-analise-dados-python-pandas/
 │
 ├── analise_adventureworks.ipynb
-├── dados_tratados.csv
-├── requirements.txt
+├── README.md
 │
 ├── datasets/
 │   └── AdventureWorks.xlsx
 │
 └── graficos/
-    ├── lucro_por_ano.png
-    ├── produtos_mais_vendidos.png
-    ├── lucro_por_marca.png
-    ├── receita_por_mes.png
-    └── tempo_de_envio.png
+    ├── Lucro anual.png
+    ├── Lucro por marca.png
+    ├── Produtos mais vendidos.png
+    ├── Tempo de envio.png
+    ├── Valor venda anual.png
+    └── Valor venda por marca.png
 ```
 
 ## 📊 Dataset
