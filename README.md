@@ -37,6 +37,7 @@ projeto-analise-dados-python-pandas/
 │
 ├── analise_adventureworks.ipynb
 ├── README.md
+├── requirements.txt
 │
 ├── datasets/
 │   └── AdventureWorks.xlsx
